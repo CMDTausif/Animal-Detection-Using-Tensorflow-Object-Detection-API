@@ -63,5 +63,6 @@ pip install numpy
 https://tensorboard.dev/experiment/PEOmUPakQAqWTWj8t53QUQ/#scalars&run=My_Animal_detection%5CTensorflow%5Cmodels%5Cmodels%5Cresearch%5Cobject_detection%5Clegacy%5Ctraining
 
 
-
+# **References and Usefull Links**
+https://github.com/chuanqi305/MobileNet-SSD
 
