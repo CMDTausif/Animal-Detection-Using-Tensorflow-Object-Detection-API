@@ -37,3 +37,10 @@ Here are some sample screenshots taken from webcam-
 Here is the sample video
 
 https://user-images.githubusercontent.com/69348400/148014655-e9f7ba4a-df2d-4a02-a2f2-04b7dd28d41b.mp4
+
+
+# **Requirements**
+
+1. Tensorflow-gpu version-1.13.1
+2. opencv-python
+
