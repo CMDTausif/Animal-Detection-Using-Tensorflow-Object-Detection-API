@@ -30,3 +30,10 @@ Here are some sample screenshots taken from webcam-
 ![dog1](https://user-images.githubusercontent.com/69348400/148014046-4684a5c7-6d22-4da3-8d76-804a0884c607.jpg)
 
 ![panda1](https://user-images.githubusercontent.com/69348400/148014048-39f47bbd-fcb3-4325-9ac1-b1b9a49d1b4a.jpg)
+
+
+# **Video**
+
+Here is the sample video
+
+https://user-images.githubusercontent.com/69348400/148014655-e9f7ba4a-df2d-4a02-a2f2-04b7dd28d41b.mp4
