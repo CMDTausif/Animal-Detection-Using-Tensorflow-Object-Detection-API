@@ -2,7 +2,7 @@
 This project implements a real time object detection like animal detection using ssd_mobilenet algorithm. SSD-Mobilenet is an algorithm or model of Tensorflow object detection which stands for Single Shot Detector. I have implemented this algorithm for training the model from scratch in python.
 
 
-**Images** 
+# **Images** 
 
 Here are some sample Images after training-
 
@@ -17,3 +17,16 @@ Here are some sample Images after training-
 ![panda_00576](https://user-images.githubusercontent.com/69348400/148013449-97e973f4-613f-4aa6-aa3c-fc3d747dc811.jpg)
 
 ![panda_01000](https://user-images.githubusercontent.com/69348400/148013463-18bab96f-17ad-4432-8079-8867eedf17e4.jpg)
+
+
+# **Screen Shots from webcam**
+
+Here are some sample screenshots taken from webcam-
+
+![cat1](https://user-images.githubusercontent.com/69348400/148014025-50ac9228-30f2-44d8-a526-71d79b3d61c3.jpg)
+
+![CAT2](https://user-images.githubusercontent.com/69348400/148014035-fca8af2b-1805-4b5c-ad37-856726a3ee45.jpg)
+
+![dog1](https://user-images.githubusercontent.com/69348400/148014046-4684a5c7-6d22-4da3-8d76-804a0884c607.jpg)
+
+![panda1](https://user-images.githubusercontent.com/69348400/148014048-39f47bbd-fcb3-4325-9ac1-b1b9a49d1b4a.jpg)
