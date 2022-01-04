@@ -41,10 +41,10 @@ https://user-images.githubusercontent.com/69348400/148014655-e9f7ba4a-df2d-4a02-
 
 # **Requirements**
 
-1. Tensorflow-gpu version-1.13.1
+1. Tensorflow-gpu version 1.13.1
 2. Opencv-python 4.2.0
 3. Python 3.7.0
-4. flask werkzeug==0.16.0
+4. flask werkzeug 0.16.0
 
 # **Dependencies**
 1. Opencv-python
@@ -52,12 +52,12 @@ https://user-images.githubusercontent.com/69348400/148014655-e9f7ba4a-df2d-4a02-
 3. Flask werkzeug
 
 # **Install Dependencies**
-conda install python==3.7.0
-pip install tensorflow-gpu==1.13.1
-pip install opencv-python
-pip install flask werkzeug==0.16.0
-pip install Cython contextlib2 pillow lxml jupyter matplotlib pandas
-pip install numpy
+1. conda install python==3.7.0
+2. pip install tensorflow-gpu==1.13.1
+3. pip install opencv-python
+4. pip install flask werkzeug==0.16.0
+5. pip install Cython contextlib2 pillow lxml jupyter matplotlib pandas
+6. pip install numpy
 
 # **Tensorboard graphs**
 https://tensorboard.dev/experiment/PEOmUPakQAqWTWj8t53QUQ/#scalars&run=My_Animal_detection%5CTensorflow%5Cmodels%5Cmodels%5Cresearch%5Cobject_detection%5Clegacy%5Ctraining
